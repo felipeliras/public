@@ -5,10 +5,11 @@ This idea of this page came from the [Book of Beliefs](https://github.com/buster
 1. There is no failure, only results.
 2. Always focus on simplicity.
 3. Start small and make improvements as you go.
-3. The best work is no work. If it’s not necessary, don’t do it.
-4. I feel so much better when people don't know where I am and what I'm doing. 
-5. In a company, ensure that before you start selling, multiple people can produce what you're selling with the same quality.
-6. The truth is like a lion; you don't have to defend it. Let it loose; it will defend itself.
+4. Always try to get a win faster - Focus on the easiest win you can get right now
+5. The best work is no work. If it’s not necessary, don’t do it.
+6. I feel so much better when people don't know where I am and what I'm doing. 
+7. In a company, ensure that before you start selling, multiple people can produce what you're selling with the same quality.
+8. The truth is like a lion; you don't have to defend it. Let it loose; it will defend itself.
 
 
 ## Quotes
