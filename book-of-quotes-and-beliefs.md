@@ -13,11 +13,12 @@ The idea of this page came from the [Book of Beliefs](https://github.com/busterb
 8. The truth is like a lion; you don't have to defend it. Let it loose; it will defend itself.
 
 ## Razors
-1. Ask how many hours does a task take. When asking the hours people can't tell end of the week for example.
-2. Ask: Is this a missed opportunity, or is this a problem? And solve all problems
-3. The test of "Is this data valuable": When it changes does it changes behavior? If the answer is no, then you don't need to track it.
-4. The best work is no work. If it’s not necessary, don’t do it.
-5. Ask What would it take? It assumes success. You then work backwards from the reality that you want to create.
+1. Ask how many hours does a task take. When asking the hours people can't tell end of the week for example. Alex Hormozi
+2. Ask: Is this a missed opportunity, or is this a problem? And solve all problems. Alex Hormozi
+3. The test of "Is this data valuable": When it changes does it changes behavior? If the answer is no, then you don't need to track it. Alex Hormozi
+4. The best work is no work. If it’s not necessary, don’t do it. Fábio Akita
+5. Ask What would it take? It assumes success. You then work backwards from the reality that you want to create. Alex Hormozi
+6. Later you'll be dead. Later is just another word for never. Sahil Bloom
 
 ## Quotes
 
